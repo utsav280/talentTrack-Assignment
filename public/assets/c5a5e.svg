@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="grid-2x2-check">
+<path id="Vector" d="M24 6V40C24 40.5304 23.7893 41.0391 23.4142 41.4142C23.0391 41.7893 22.5304 42 22 42H10C8.93913 42 7.92172 41.5786 7.17157 40.8284C6.42143 40.0783 6 39.0609 6 38V10C6 8.93913 6.42143 7.92172 7.17157 7.17157C7.92172 6.42143 8.93913 6 10 6H38C39.0609 6 40.0783 6.42143 40.8284 7.17157C41.5786 7.92172 42 8.93913 42 10V22C42 22.5304 41.7893 23.0391 41.4142 23.4142C41.0391 23.7893 40.5304 24 40 24H6M32 38L36 42L44 34" stroke="url(#paint0_linear_0_750)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_750" x1="6.66087" y1="9.6" x2="44.4928" y2="10.6542" gradientUnits="userSpaceOnUse">
+<stop stop-color="#034BB8"/>
+<stop offset="0.25" stop-color="#8A38F5"/>
+<stop offset="0.504808" stop-color="#E32A7D"/>
+<stop offset="0.754808" stop-color="#E8542F"/>
+<stop offset="1" stop-color="#FFC053"/>
+</linearGradient>
+</defs>
+</svg>

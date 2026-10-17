@@ -1,0 +1,14 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="clock-fading">
+<path id="Vector" d="M24 4C27.8803 3.99929 31.677 5.12736 34.9274 7.24671C38.1777 9.36607 40.7414 12.3852 42.3059 15.9361C43.8704 19.487 44.3682 23.4163 43.7386 27.2452C43.109 31.074 41.3792 34.6371 38.76 37.5M24 12V24L32 28M5 17.75C4.3627 19.6873 4.02547 21.7107 4 23.75M5.65991 32C6.78291 34.5837 8.43908 36.9009 10.5199 38.8M9.27197 10.4699C9.83005 9.86232 10.4252 9.28989 11.054 8.75586M17.2881 42.8401C22.2755 44.6168 27.7639 44.3435 32.5501 42.0801" stroke="url(#paint0_linear_0_742)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_742" x1="4.69572" y1="7.99999" x2="44.5256" y2="9.0515" gradientUnits="userSpaceOnUse">
+<stop stop-color="#034BB8"/>
+<stop offset="0.25" stop-color="#8A38F5"/>
+<stop offset="0.504808" stop-color="#E32A7D"/>
+<stop offset="0.754808" stop-color="#E8542F"/>
+<stop offset="1" stop-color="#FFC053"/>
+</linearGradient>
+</defs>
+</svg>
